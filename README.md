@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jitendrapastaria
 - 👀 I’m interested in Cyber security
 - 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on...
+- 💞️ I’m looking to collaborate on....
 - 📫 How to reach me... jitendrapastaria@yahoo.com
 
 <!---
